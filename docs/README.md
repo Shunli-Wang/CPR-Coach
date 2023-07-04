@@ -1,4 +1,4 @@
-![图片](../imgs/CPR-Coach.png)
+![img](../imgs/CPR-Coach.png)
 # Introduction
 Cardiopulmonary Resuscitation (CPR) is an essential skill in emergency treatment. Currently, the assessment of CPR skills mainly depends on dummies and trainers, leading to high training costs and low efficiency. For the first time, we constructed a vision-based system to complete error action recognition and skill assessment in CPR. 
 Specifically, we define **13 types of single-error actions** and **74 types of composite error actions** during external cardiac compression and then develop a video dataset named **CPR-Coach**.
