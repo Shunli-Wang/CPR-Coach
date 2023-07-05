@@ -2,14 +2,6 @@
 layout: default
 ---
 
-<style>
-video {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
 ![img](./CPR-Coach.png)
 # Introduction
 Cardiopulmonary Resuscitation (CPR) is an essential skill in emergency treatment. Currently, the assessment of CPR skills mainly depends on dummies and trainers, leading to high training costs and low efficiency. For the first time, we constructed a vision-based system to complete error action recognition and skill assessment in CPR. 
