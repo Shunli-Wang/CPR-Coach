@@ -3,10 +3,6 @@ layout: default
 ---
 
 <style>
-table {
-  margin-left: auto;
-  margin-right: auto;
-}
 video {
   display: block;
   margin-left: auto;
