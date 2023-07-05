@@ -39,7 +39,7 @@ Science the paper has not been officially accepted, we have only uploaded some e
 Our composite error action recognition system was received as a Demo by ICCV2023. This is the detailed system demonstration video.
 
 <video controls>
-  <source src="imgs/Demo Video_CPR-Coach" type="video/mp4">
+  <source src="imgs/Demo_Video_CPR-Coach.mp4" type="video/mp4">
 </video>
 
 https://drive.google.com/file/d/1bI8uK00Go-nqL-A4nblvH3xIV6f23zzr/view?usp=sharing
