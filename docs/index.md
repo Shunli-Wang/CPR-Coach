@@ -34,20 +34,14 @@ Science the paper has not been officially accepted, we have only uploaded some e
 
 # Code of the ImagineNet
 
-
 # System Demonstration
-Our composite error action recognition system was received as a Demo by ICCV2023. This is the detailed system demonstration video.
+Our composite error action recognition system was received as a **Demo** by ICCV-2023. The detailed system demonstration video is available at [Here](https://drive.google.com/file/d/1bI8uK00Go-nqL-A4nblvH3xIV6f23zzr/view?usp=sharing).
 
-<video controls>
-  <source src="https://drive.google.com/file/d/1bI8uK00Go-nqL-A4nblvH3xIV6f23zzr/view?usp=sharing" type="video/mp4">
+<video controls width="800px">
+  <source src="https://github.com/Shunli-Wang/CPR-Coach/assets/42674107/52b5a07b-4adc-49e8-bcd7-c4b995a69996" type="video/mp4">
 </video>
-
-<!-- imgs/Demo_Video_CPR-Coach.mp4 -->
-<!-- https://drive.google.com/file/d/1bI8uK00Go-nqL-A4nblvH3xIV6f23zzr/view?usp=sharing -->
-
 
 # Acknowledgements
 This work was supported by the National Key R&D Program of China (2021ZD0113502) and the Shanghai Municipal Science and Technology Major Project (2021SHZDZX0103).
 
-<!-- <video src="./imgs/Demo%20Video_CPR-Coach.mp4" width="800px" controls="controls"></video> -->
-<!-- height="600px"  -->
+<!-- <video src="./imgs/Demo_Video_CPR-Coach.mp4" width="800px" controls="controls"></video> -->

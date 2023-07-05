@@ -1,4 +1,4 @@
-![img](./docs/CPR-Coach.png)
+![img](./CPR-Coach.png)
 
 <style>
 table {
@@ -41,8 +41,10 @@ Science the paper has not been officially accepted, we have only uploaded some e
 
 # System Demonstration
 Our composite error action recognition system was received as a Demo by ICCV2023. This is the detailed system demonstration video.
-https://drive.google.com/file/d/1bI8uK00Go-nqL-A4nblvH3xIV6f23zzr/view?usp=sharing
 
+<video controls width="800" margin-left=auto margin-right=auto>
+  <source src="https://github.com/Shunli-Wang/CPR-Coach/assets/42674107/52b5a07b-4adc-49e8-bcd7-c4b995a69996" type="video/mp4">
+</video>
 
 # Acknowledgements
 This work was supported by the National Key R&D Program of China (2021ZD0113502) and the Shanghai Municipal Science and Technology Major Project (2021SHZDZX0103).
