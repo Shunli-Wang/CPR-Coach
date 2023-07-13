@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ![img](./CPR-Coach.png)
 # Introduction
 Cardiopulmonary Resuscitation (CPR) is an essential skill in emergency treatment. Currently, the assessment of CPR skills mainly depends on dummies and trainers, leading to high training costs and low efficiency. For the first time, we constructed a vision-based system to complete error action recognition and skill assessment in CPR. 
@@ -30,7 +26,7 @@ The following table provides a detailed statistics of the dataset.
 | Storage Size  | 449GB |
 
 # Download
-Science the paper has not been officially accepted, we have only uploaded some example videos of the CPR-Coach Dataset. You can download these examples from Here. If you want to obtain the entire dataset, please contact us via E-mail ([slwang19@fudan.edu.cn](slwang19@fudan.edu.cn)). Please indicate your work unit and purpose in E-mail.
+Science the paper has not been officially accepted, we have only uploaded some example videos of the CPR-Coach Dataset. You can download these examples from [Here](https://drive.google.com/file/d/15N7DR7BGNSPr3wJv2sYfnF0T802_BbtP/view?usp=sharing). If you want to obtain the entire dataset, please contact us via E-mail ([slwang19@fudan.edu.cn](slwang19@fudan.edu.cn)). Please indicate your work unit and purpose in E-mail.
 
 # Code of the ImagineNet
 ![img](./Dataset.png)
@@ -38,14 +34,12 @@ Science the paper has not been officially accepted, we have only uploaded some e
 We propose a concise framework named **ImagineNet** to handle the intractable Single-class Training & Multi-class Testing problem properly. 
 The essence of the ImagineNet is a human-inspired feature combination training strategy.
 As its name implies, it can Imagine composite error features based on restricted single-class error actions and achieves high performance in the unseen composite error recognition task.
-The code of the ImagineNet is available at [Here](https://github.com/Shunli-Wang/CPR-Coach).
+The code of the ImagineNet is available at [Here](https://github.com/Shunli-Wang/CPR-Coach/tree/main/ImagineNet).
 
 # System Demonstration
 Our composite error action recognition system was received as a **Demo** by ICCV-2023. The detailed system demonstration video is available at [Here](https://drive.google.com/file/d/1pYcvSlRUVmMM3LuCDVtIlvt4rRy-Ldpf/view?usp=sharing).
 
-<video controls>
-  <source src="https://github.com/Shunli-Wang/CPR-Coach/assets/42674107/fbf1bc0c-6146-4035-80ea-5584742aa894" type="video/mp4">
-</video>
+<video src="https://github.com/Shunli-Wang/CPR-Coach/assets/42674107/fbf1bc0c-6146-4035-80ea-5584742aa894" controls="controls"></video>
 
 # Acknowledgements
 This work was supported by the National Key R&D Program of China (2021ZD0113502) and the Shanghai Municipal Science and Technology Major Project (2021SHZDZX0103).

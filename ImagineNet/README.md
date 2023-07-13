@@ -1,5 +1,5 @@
 # ImagineNet
-This repository contains the PyTorch implementation for ICCV 2023 submition ID-2254 __CPR-Coach: Recognizing Composite Error Actions based on Single-class Training__
+This repository contains the PyTorch implementation for __CPR-Coach: Recognizing Composite Error Actions based on Single-class Training__
 
 <img src="fig/ImagineNet.png" width = "1200" />
 
