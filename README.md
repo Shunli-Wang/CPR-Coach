@@ -1,6 +1,3 @@
----
-layout: default
----
 
 ![img](./docs//CPR-Coach.png)
 # Introduction
@@ -43,11 +40,11 @@ The code of the ImagineNet is available at [Here](https://github.com/Shunli-Wang
 # System Demonstration
 Our composite error action recognition system was received as a **Demo** by ICCV-2023. The detailed system demonstration video is available at [Here](https://drive.google.com/file/d/1pYcvSlRUVmMM3LuCDVtIlvt4rRy-Ldpf/view?usp=sharing).
 
-<video controls>
-  <source src="https://github.com/Shunli-Wang/CPR-Coach/assets/42674107/fbf1bc0c-6146-4035-80ea-5584742aa894" type="video/mp4">
-</video>
+<video src="https://github.com/Shunli-Wang/CPR-Coach/assets/42674107/fbf1bc0c-6146-4035-80ea-5584742aa894" controls="controls"></video>
 
 # Acknowledgements
 This work was supported by the National Key R&D Program of China (2021ZD0113502) and the Shanghai Municipal Science and Technology Major Project (2021SHZDZX0103).
 
-<!-- <video src="./imgs/Demo_Video_CPR-Coach.mp4" width="800px" controls="controls"></video> -->
+<!-- <video controls>
+  <source src="https://github.com/Shunli-Wang/CPR-Coach/assets/42674107/fbf1bc0c-6146-4035-80ea-5584742aa894" type="video/mp4">
+</video> -->
