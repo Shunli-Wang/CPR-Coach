@@ -27,7 +27,9 @@ The following table provides a detailed statistics of the dataset.
 | Storage Size  | 449GB |
 
 # Download
-Please use BaiduNetDisk to download the dataset at [Here](https://pan.baidu.com/s/1C3nKLo41A-BE64Rl7Hmang?pwd=23u7) (~ 408GB)
+Please use BaiduNetDisk to download the dataset at [Here](https://pan.baidu.com/s/1C3nKLo41A-BE64Rl7Hmang?pwd=23u7) (~ 408GB).
+
+Or by Huggingface on [Here](https://huggingface.co/datasets/ShunliWang/CPR-Coach).
 
 # Code of the ImagineNet
 ![img](./docs/Dataset.png)
